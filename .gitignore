@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.env
+
+/LLM_Training/venv/
+/LLM_Training/scraping_browserbase_scripts/scraped_docs.json
+/LLM_Training/scraping_browserbase_scripts/docs_urls.txt

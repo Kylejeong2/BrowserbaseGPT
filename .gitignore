@@ -40,3 +40,7 @@ next-env.d.ts
 /LLM_Training/venv/
 /LLM_Training/scraping_browserbase_scripts/scraped_docs.json
 /LLM_Training/scraping_browserbase_scripts/docs_urls.txt
+/LLM_Training/training_data.jsonl
+/LLM_Training/api_coding_training_data.jsonl
+/LLM_Training/training_data_reformatted.jsonl
+/LLM_Training/docs_urls.txt
